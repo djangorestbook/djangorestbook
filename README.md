@@ -3,16 +3,14 @@ Collaborative book on Django Rest Framework
 
 ## Introduction
 
-The idea of writing a book about Django Rest Framework comes from my (Andrea Grandi)
-daily usage of this fantastic library. The framework itself has a very good documentation but sometimes it can be not enough, expecially for people that have
-just started working with it.
+The idea of writing a book about the Django Rest Framework comes from my (Andrea Grandi)
+daily usage of this fantastic library. The framework has good documentation already, but could be made more accessible to new users.
 
-I don't define myself a Django Rest Framework expert despite having used it for
-the latest 2 years and very often I need to look at the documentation. This is why
-I would like to make this a collaborative work: I have surely the willing but not all the required experience.
+Although I've been using the framework for the last 2 years, I don't consider myself an expert and still use the documentation fairly frequently. This is why I would like to collaborate with others and for those who may be more experienced with the framework to contribute.
 
-Surely at the end of this adventure I (and everyone who will contribute) will have
-a wider knowledge of the framework, but still the book will need the help of more people expecially in areas where an expert of internals is required or even just to review how it has been written (disclaimer: I'm not a native english speaker, so expect some errors in the text).
+I expect that by writing this book we all will have a better understanding of the Django Rest Framework and also will have produced a good starting point for new users.
+
+Disclaimer: I'm not a native English speaker, so expect some errors in the text.
 
 ## Summary
 
@@ -29,7 +27,7 @@ There are many things that can be done at this stage:
 * Writing chapters
 * Reviewing what has been written and fixing errors
 
-When the book will be ready it mostly depends on how many people will contribute and how much time I will be able to dedicate to this side (I have a full time job) project.
+The speed and frequency of new chapters being added is dependant on how many people contribute and also how much time I'll be able to spend on it (I have a full time job).
 
 If you would like to contribute, please get in touch with me. You can find me:
 
