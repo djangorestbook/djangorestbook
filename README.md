@@ -16,8 +16,12 @@ Disclaimer: I'm not a native English speaker, so expect some errors in the text.
 
 * Chapter 1: Introduction to Django Rest Framework
 * Chapter 2: Getting Started
-* Chapter 3: chapter 3 title
-* ...
+* Chapter 3: Views
+* Chapter 4: Requests and Responses
+* Chapter 5: Serializers
+* Chapter 6: ...
+* Chapter 7: Testing
+* Chapter 8: Authentication and Security
 
 ## Contribute
 
