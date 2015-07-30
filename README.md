@@ -22,6 +22,7 @@ Disclaimer: I'm not a native English speaker, so expect some errors in the text.
 * Chapter 6: ...
 * Chapter 7: Testing
 * Chapter 8: Authentication and Security
+* Chapter 9: Third Party Addons
 
 ## Contribute
 
